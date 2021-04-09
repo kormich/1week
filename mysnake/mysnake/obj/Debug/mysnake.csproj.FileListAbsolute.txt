@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\mysnake\mysnake\bin\Debug\mysnake.exe.config
+C:\Users\Admin\Desktop\mysnake\mysnake\bin\Debug\mysnake.exe
+C:\Users\Admin\Desktop\mysnake\mysnake\bin\Debug\mysnake.pdb
+C:\Users\Admin\Desktop\mysnake\mysnake\obj\Debug\mysnake.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\mysnake\mysnake\obj\Debug\mysnake.Form1.resources
+C:\Users\Admin\Desktop\mysnake\mysnake\obj\Debug\mysnake.Properties.Resources.resources
+C:\Users\Admin\Desktop\mysnake\mysnake\obj\Debug\mysnake.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\mysnake\mysnake\obj\Debug\mysnake.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\mysnake\mysnake\obj\Debug\mysnake.exe
+C:\Users\Admin\Desktop\mysnake\mysnake\obj\Debug\mysnake.pdb
